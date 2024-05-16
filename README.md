@@ -1,8 +1,6 @@
 # Cyber-Pet
 Year1, Semester 1 CMP 104 programming project.
 
-# Cyberpet Program
-
 ## Description
 This program simulates taking care of a virtual pet, allowing users to interact with it by checking its status, playing with it, feeding it, and letting it rest. The pet's well-being is determined by its hunger, energy, and happiness levels, which are affected by the user's actions.
 
